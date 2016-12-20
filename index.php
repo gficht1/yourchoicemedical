@@ -23,9 +23,11 @@
             <div class="row">
                 <div class="col-md-6 col-md-offset-6 get-it">
                     <h1>Your Choice Medical </h1>
+                    <h2>Currently under construction...More to Come</h2>
                     <p id="smallspace">Dr.Kay A. Ficht </p>
 					<p id="smallspace">21 Storey Ave.</p>
 					<p id="smallspace"> Newburyport, MA 01950 </p>
+          <p id="smallspace">contact@yourchoicemedical.org</p>
 					<p id="smallspace">T-978-518-5184 </p>
                     <div class="learn-more-button"><a href="#">Learn More</a></div>
                 </div>
@@ -48,7 +50,7 @@
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 icon-feature margin-bottom-benefit"><i class="fa fa-phone-square"></i>
                             <h3 class="text-center">Availability</h3>
-                            <p> Call Dr.Ficht’s or a nurse practitioner’s cellphone during off hours for important medical matters. </p>
+                            <p> Call Dr.Ficht’s or a nurse practitioner’s cellphone during <br> off hours for important medical matters. </p>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 icon-feature"><i class="glyphicon glyphicon-facetime-video"></i>
                             <h3 class="text-center">Convenience Telemedicine </h3>
@@ -71,8 +73,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h5>Your Choice Medical © 2016</h5></div>
-                <div class="col-sm-6 social-icons"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-instagram"></i></a></div>
+                    <h5>Your Choice Medical LLC. © 2016</h5></div>
+                <div class="col-sm-6 social-icons"><a href="https://www.facebook.com/yourchoicemedical/"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-instagram"></i></a></div>
             </div>
         </div>
     </footer>
