@@ -24,7 +24,7 @@
                 <div class="col-md-6 col-md-offset-6 get-it">
                     <h1>Your Choice Medical </h1>
                     <h4>Website Currently under construction</h4>
-                    </h4>More to Come</h4>
+                    <h4>More to Come</h4>
                     <p id="smallspace">Dr.Kay A. Ficht </p>
 					<p id="smallspace">21 Storey Ave.</p>
 					<p id="smallspace"> Newburyport, MA 01950 </p>
