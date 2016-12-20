@@ -23,7 +23,8 @@
             <div class="row">
                 <div class="col-md-6 col-md-offset-6 get-it">
                     <h1>Your Choice Medical </h1>
-                    <h2>Currently under construction...More to Come</h2>
+                    <h4>Website Currently under construction</h4>
+                    </h4>More to Come</h4>
                     <p id="smallspace">Dr.Kay A. Ficht </p>
 					<p id="smallspace">21 Storey Ave.</p>
 					<p id="smallspace"> Newburyport, MA 01950 </p>
@@ -73,7 +74,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h5>Your Choice Medical LLC. © 2016</h5></div>
+                    <h5>Your Choice Medical, LLC. © 2016</h5></div>
                 <div class="col-sm-6 social-icons"><a href="https://www.facebook.com/yourchoicemedical/"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-instagram"></i></a></div>
             </div>
         </div>
